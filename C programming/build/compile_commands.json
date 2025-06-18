@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/001.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/001.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/001.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/002.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/002.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/002.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/003.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/003.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/003.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/004.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/004.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/004.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/005.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/005.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/005.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/006.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/006.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/006.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/007.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/007.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/007.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/008.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/008.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/008.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/009.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/009.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/009.c"
+},
+{
+  "directory": "/home/mnelson/projects/test_git_repo/C programming/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c_programming_misc.dir/010.c.o -c \"/home/mnelson/projects/test_git_repo/C programming/010.c\"",
+  "file": "/home/mnelson/projects/test_git_repo/C programming/010.c"
+}
+]
